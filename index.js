@@ -1,4 +1,4 @@
-console.log("Hello")
+console.log("Hi from Online")
 const name = "Benjamin"
 console.log("Hello ${name}")
 console.log("it works")
